@@ -1,0 +1,77 @@
+body{
+    margin: 0em;
+    padding: 0em;
+    background-color: #d1ffe8;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    
+}
+#sub{
+    width: 70%;
+}
+
+#brand{
+    font-size: 4em;
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+#tit{
+    margin-top: 0cm;
+}
+
+button{
+    background-color: #a3ffe6 ;
+    margin: 10px auto 0px;
+    padding: 4px 10px;
+}
+.king{
+    text-decoration: none;
+    color: black;
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 31px 10px 10px 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+label {
+    width: 48%;
+    margin: 10px auto;
+   
+}
+input{
+    width: 40%;
+    margin: 10px auto;
+}
+#god{
+    width: 80%;
+    border-radius: 4px;
+    padding: 14px;
+    margin: auto;
+    background-color: white;
+}
+h2{
+ margin-top: 1cm;
+ margin-bottom: 0.2cm;
+}
+#poop{
+    background-color: white;
+    padding: 25px;
+    width: 80%;
+    margin: auto;
+}
+footer{
+    background-color: white;
+    color: black;
+    bottom: 0cm;
+    width: 100%;
+}
+a{
+    margin: auto;
+}
+
