@@ -8,6 +8,7 @@ body{
   font-family: 'Poppins', sans-serif;
   margin: 0px;
   padding: 0px;
+  background-color:#d1ffe8;
 }
 .box{
   border:  #a3ffe6 4px solid;
@@ -43,9 +44,10 @@ body{
   padding:10px;
 }
 h1{
-  background-color: #a3ffe6;
+ background-color:#d1ffe8;
   padding: 8px;
   color: black;
+  border-bottom: white 4px solid;
 }
 input{
   border-radius: 1px;
